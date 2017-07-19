@@ -1,0 +1,15 @@
+1500022277053	geckodriver	INFO	Listening on 127.0.0.1:21094
+1500022279109	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500022282147	Marionette	INFO	Listening on port 21100
+1500022282414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1500022309624	Marionette	INFO	New connections will no longer be accepted
+1500022310355	geckodriver	INFO	Listening on 127.0.0.1:21390
+1500022312396	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500022315158	Marionette	INFO	Listening on port 21396
+1500022315551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1500022349715	Marionette	INFO	New connections will no longer be accepted

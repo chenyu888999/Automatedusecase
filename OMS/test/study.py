@@ -8,7 +8,9 @@
 '''
 import configparser
 from OMS.Keyword.Element import Oms
-from OMS.Config.Element_list import uuu
+#from OMS.Config.Element_list import uuu
+
+
 
 
 
@@ -29,7 +31,7 @@ print(name)
 
 a = "SKU:sku9bl8uh13ca 创建成功"
 b = str(a.split(":")[1].split(" ")[0])
-print(b)'''
+print(b)
 
 
 def _init():
@@ -38,5 +40,28 @@ def _init():
 
 
 def set_value(key,value):
-    _global_dict[key] = value
+    _global_dict[key] = value'''
+
+
+data = open("F:\\Automated use case\\OMS\\test\\test1","r+",encoding='utf-8')
+
+user = data.read()
+#print(user)
+
+user_info = user.split("$")
+
+print(user_info)
+
+aa = {}
+for i in user_info:
+    bb = i.split(":")
+    print(bb)
+    print(bb[-1])
+    aa[bb[0]]= bb[-1]
+
+print(aa)
+
+
+
+
 

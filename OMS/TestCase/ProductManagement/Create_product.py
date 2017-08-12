@@ -88,7 +88,8 @@ class Create_Product(unittest.TestCase):
 
         #---------------------------提交产品--------------------------------
         self.driver.click("id=productSubmitBtn")
-        self.driver.wait_element("id=create_feedback_div",2)
+        self.driver.wait_element("id=create_feedback_div",5)
+        self.driver.wait(2)
         self.verification.append(self.driver.get_text("id=create_feedback_div"))
         self.driver.js("document.documentElement.scrollTop=1000")
         time.sleep(2)
@@ -101,12 +102,14 @@ class Create_Product(unittest.TestCase):
         self.driver.click("css=.sidebar-header")
         self.driver.js("leftMenu('46','商品维护','/product/product/list?quick=46')")
         self.driver.switch_to_frame("id=iframe-container-46")
+        self.driver.is_visible("css=.indexTag2.statusTag.chooseTag",2)
         self.driver.click("text=草稿")
         self.driver.wait(1)
         self.driver.click("id=product_title_like")
         self.driver.send_key("id=product_title_like","name"+ self.proname)
         self.driver.click("css=.baseBtn.submitToSearch")
         self.driver.click("css=.checkAll")
+        #self.driver.is_visible("css=.asnSubmitAuditBtn.baseBtn.opBtn",5)
         self.driver.click("css=.asnSubmitAuditBtn.baseBtn.opBtn")
         self.driver.click("id=popup_ok")
         self.driver.wait_element("css=#dialog-auto-alert-tip > p:nth-child(2)",6)
@@ -150,7 +153,7 @@ class Create_Product(unittest.TestCase):
 
     def test_04_check_product(self):
         print(self.check_sku)
-        self.assertEqual("Welcome,\n刘万语(000028)",self.verification[0])  # 对登陆页面数据进行断言
+        self.assertEqual("Welcome,\nbaker(000028)",self.verification[0])  # 对登陆页面数据进行断言
         self.assertEqual("SKU:sku%s 创建成功" % self.sku, self.verification[1])  # 创建成功
         self.assertEqual("SKU:SKU%s 审核成功" % self.check_sku ,self.verification[2])  #审核成功
         self.assertEqual("Success", self.verification[3])

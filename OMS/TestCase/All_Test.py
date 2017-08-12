@@ -9,17 +9,19 @@
 
 from OMS.TestCase.ProductManagement.Create_product import Create_Product
 from OMS.TestCase.ProductManagement.Warehousing_application import Warehousing
-import unittest, doctest,HTMLTestRunner
+import unittest, doctest,HTMLTestRunner,sys,os
 
 
-suite = doctest.DocTestSuite()
+#suite = doctest.DocTestSuite()
 #罗列要执行的文件
+suite = unittest.TestSuite()
 suite.addTest(unittest.makeSuite(Create_Product))
 suite.addTest(unittest.makeSuite(Warehousing))
 #unittest.TextTestRunner(verbosity=2).run(suite)
 
 
-filename = 'F:\\Automated use case\\OMS\\Report\\result.html'
+
+filename = 'F:\\Automated_use_case\\OMS\\Report\\result.html'
 fp = open(filename, 'wb')
 
 runner = HTMLTestRunner.HTMLTestRunner(

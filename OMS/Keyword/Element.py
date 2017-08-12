@@ -12,6 +12,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 import selenium.webdriver.support.expected_conditions as EC
 import selenium.webdriver.support.ui as ui
+import win32com, win32gui, win32con, time
 
 
 class Oms(object):
@@ -173,8 +174,8 @@ class Oms(object):
     def get_url(self):
         return self.driver.current_url
 
-    def get_screenshot(self):
-        self.driver.get_screenshot_as_file("F:\\Automated use case\\OMS\\screenpicture\\/%s.png" % datetime.datetime.now().strftime("%Y%m%d.%H%M%S"))
+    def get_screenshot(self):           #截图
+        self.driver.get_screenshot_as_file("F:\\Automated_use_case\\OMS\\screenpicture\\/%s.png" % datetime.datetime.now().strftime("%Y%m%d.%H%M%S"))
 
 
     def submit(self, element):
@@ -266,6 +267,44 @@ class Oms(object):
 
     def get_xpath(self,element):
         return self.driver.find_element_by_xpath(element).text
+
+    def update(self,title,path):
+        dialog = win32gui.FindWindow('#32770', title)  # 对话框
+        ComboBoxEx32 = win32gui.FindWindowEx(dialog, 0, 'ComboBoxEx32', None)
+        ComboBox = win32gui.FindWindowEx(ComboBoxEx32, 0, 'ComboBox', None)
+        Edit = win32gui.FindWindowEx(ComboBox, 0, 'Edit', None)
+        button = win32gui.FindWindowEx(dialog, 0, 'Button', None)
+        win32gui.SendMessage(Edit, win32con.WM_SETTEXT, None, path)
+        win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button)
+
+    def get_table_rows(self,element):
+        return (self.driver.find_element_by_xpath(element).find_elements_by_tag_name('tr'))
+
+    def get_table_cloumn(self,element,index):
+        return (self.get_table_rows(element)[index].find_elements_by_tag_name('td'))
+
+    def get_table_text(self,element,rowindex,colindex):
+        return (self.get_table_rows(element)[rowindex].find_elements_by_tag_name('td')[colindex].text)
+
+    def get_table_text_row(self,element,colindex,text):
+        for index,i in enumerate(self.get_table_rows(element)):
+            if i.find_elements_by_tag_name('td')[colindex].text == text:
+                return index
+        else:
+            print("未找到%s" % text)
+
+
+    def click_table_element(self,element,textrow,colindex,*args,**kwargs):
+        if len(args) < 0 :
+            self.get_table_rows(element)[textrow].find_elements_by_tag_name('td')[colindex].click()
+        else:
+            self.get_table_rows(element)[textrow].find_elements_by_tag_name('td')[colindex].find_element_by_link_text(*args).click()
+
+
+
+
+
+
 
 
 

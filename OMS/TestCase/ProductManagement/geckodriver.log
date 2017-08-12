@@ -1006,3 +1006,1199 @@ Full stack:
 1500026945108	Marionette	INFO	Listening on port 23349
 1500026945392	Marionette	WARN	TLS certificate errors will be ignored for this session
 1500026982439	Marionette	INFO	Ceased listening
+1500461616891	geckodriver	INFO	Listening on 127.0.0.1:8629
+1500461619219	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500461631387	Marionette	INFO	Listening on port 8635
+1500461632281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1500461715927	Marionette	INFO	Ceased listening
+0.0.1:8932
+1500461661675	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500461665732	Marionette	INFO	Listening on port 8938
+1500461666017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1500462016847	geckodriver	INFO	Listening on 127.0.0.1:9247
+1500462018904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462023051	Marionette	INFO	Listening on port 9253
+1500462023272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1500462044048	Marionette	INFO	New connections will no longer be accepted
+1500462044731	geckodriver	INFO	Listening on 127.0.0.1:9535
+1500462046780	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462050281	Marionette	INFO	Listening on port 9541
+1500462050450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+1500462083843	Marionette	INFO	Ceased listening
+1500462088573	geckodriver	INFO	Listening on 127.0.0.1:9788
+1500462090658	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462094456	Marionette	INFO	Listening on port 9794
+1500462094786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1500462113110	Marionette	INFO	New connections will no longer be accepted
+1500462113678	geckodriver	INFO	Listening on 127.0.0.1:10069
+1500462115746	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462119033	Marionette	INFO	Listening on port 10075
+1500462119375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1500462152797	Marionette	INFO	New connections will no longer be accepted
+1500462207701	geckodriver	INFO	Listening on 127.0.0.1:10408
+1500462209741	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462212972	Marionette	INFO	Listening on port 10414
+1500462213417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1500462233660	Marionette	INFO	New connections will no longer be accepted
+1500462234007	geckodriver	INFO	Listening on 127.0.0.1:10691
+1500462236065	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462239645	Marionette	INFO	Listening on port 10697
+1500462239880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1500462275246	Marionette	INFO	New connections will no longer be accepted
+1500462844063	geckodriver	INFO	Listening on 127.0.0.1:11485
+1500462846133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462849731	Marionette	INFO	Listening on port 11491
+1500462849929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1500462873575	Marionette	INFO	New connections will no longer be accepted
+1500462874274	geckodriver	INFO	Listening on 127.0.0.1:11769
+1500462876308	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500462880135	Marionette	INFO	Listening on port 11775
+1500462880429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1500462915035	Marionette	INFO	New connections will no longer be accepted
+1500947746181	geckodriver	INFO	Listening on 127.0.0.1:12273
+1500947748369	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500947760503	Marionette	INFO	Listening on port 12280
+1500947761625	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500965408682	Marionette	INFO	Ceased listening
+0.1:12377
+1500947820128	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500947846671	geckodriver	INFO	Listening on 127.0.0.1:12405
+1500947848721	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500947872484	geckodriver	INFO	Listening on 127.0.0.1:12418
+1502076987222	geckodriver	INFO	Listening on 127.0.0.1:1819
+1502076989541	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502076994028	Marionette	INFO	Listening on port 1825
+1502076994879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502077040056	Marionette	INFO	Ceased listening
+1502089547383	geckodriver	INFO	Listening on 127.0.0.1:13140
+1502089549447	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502089553271	Marionette	INFO	Listening on port 13146
+1502089553638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502153468738	geckodriver	INFO	Listening on 127.0.0.1:24408
+1502153470871	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502153479355	Marionette	INFO	Listening on port 24414
+1502153480411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502153521328	geckodriver	INFO	Listening on 127.0.0.1:24457
+1502153523396	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502153527334	Marionette	INFO	Listening on port 24463
+1502153527645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502153534418	Marionette	INFO	Ceased listening
+1502153755683	geckodriver	INFO	Listening on 127.0.0.1:24547
+1502153757781	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502153762109	Marionette	INFO	Listening on port 24554
+1502153763079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+1502153777969	Marionette	INFO	Ceased listening
+1502153833854	geckodriver	INFO	Listening on 127.0.0.1:24615
+1502153835891	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502153839599	Marionette	INFO	Listening on port 24621
+1502153840015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154038835	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502154038839	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502154039154	Marionette	INFO	Ceased listening
+ on port 24692
+1502154006054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154043412	Marionette	INFO	Ceased listening
+1502154161052	geckodriver	INFO	Listening on 127.0.0.1:24781
+1502154163164	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154167761	Marionette	INFO	Listening on port 24789
+1502154168401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154768997	Marionette	INFO	Ceased listening
+0.0.1:24873
+1502154335558	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154338946	Marionette	INFO	Listening on port 24879
+1502154339323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154418466	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1502154768003	Marionette	INFO	Ceased listening
+6)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154413755	Marionette	INFO	Listening on port 24955
+1502154415156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154767106	Marionette	INFO	Ceased listening
+0.0.1:25250
+1502154571460	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154578213	Marionette	INFO	Listening on port 25256
+1502154579038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154590643	Marionette	INFO	Ceased listening
+1502154608017	geckodriver	INFO	Listening on 127.0.0.1:25318
+1502154610077	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154613617	Marionette	INFO	Listening on port 25324
+1502154613905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154765279	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502154765282	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502154765926	Marionette	INFO	Ceased listening
+ on port 25392
+1502154638879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154655159	Marionette	INFO	Ceased listening
+1502154667361	geckodriver	INFO	Listening on 127.0.0.1:25452
+1502154669469	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154680480	Marionette	INFO	Listening on port 25459
+1502154682106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502154763917	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502154764262	Marionette	INFO	Ceased listening
+1502154820267	geckodriver	INFO	Listening on 127.0.0.1:25567
+1502154822368	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154826426	Marionette	INFO	Listening on port 25573
+1502154827013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502155123687	Marionette	INFO	Ceased listening
+0.0.1:25665
+1502154974625	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502154977931	Marionette	INFO	Listening on port 25671
+1502154978259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502155124152	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502155124475	Marionette	INFO	Ceased listening
+\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502155098732	Marionette	INFO	Listening on port 25760
+1502155099470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502155125348	Marionette	INFO	Ceased listening
+1502155274131	geckodriver	INFO	Listening on 127.0.0.1:25883
+1502155276184	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502155279407	Marionette	INFO	Listening on port 25889
+1502155279855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502161396033	Marionette	INFO	Ceased listening
+1502166112080	geckodriver	INFO	Listening on 127.0.0.1:29078
+1502166114300	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502166136472	Marionette	INFO	Listening on port 29084
+1502166137496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************151502167051709	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+_writeState@resource://app/modules/sessionstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+1502168669726	Marionette	INFO	Ceased listening
+ed for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502167150078	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+_writeState@resource://app/modules/sessionstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+1502168665960	Marionette	INFO	Ceased listening
+onstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/mod1502168619827	Marionette	INFO	Ceased listening
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 4015: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+er return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502168612667	Marionette	INFO	Ceased listening
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 4015: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+er return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502168613359	Marionette	INFO	Ceased listening
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 4015: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+er return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+_writeState@resource://app/modules/sessionstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+1502168634133	Marionette	INFO	Ceased listening
+0561
+1502168520478	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174612705	geckodriver	INFO	Listening on 127.0.0.1:3202
+1502174614894	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174622285	Marionette	INFO	Listening on port 3208
+1502174622527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502174637976	Marionette	INFO	Ceased listening
+1502174639878	geckodriver	INFO	Listening on 127.0.0.1:3271
+1502174641926	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174645702	Marionette	INFO	Listening on port 3277
+1502174646105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502175105975	Marionette	INFO	Ceased listening
+0.0.1:3409
+1502174734755	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174739490	Marionette	INFO	Listening on port 3415
+1502174740155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502175104749	Marionette	INFO	Ceased listening
+0.0.1:3538
+1502174826239	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174830202	Marionette	INFO	Listening on port 3544
+1502174830508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502174842798	Marionette	INFO	Ceased listening
+1502174849396	geckodriver	INFO	Listening on 127.0.0.1:3648
+1502174851448	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174855096	Marionette	INFO	Listening on port 3655
+1502174855322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502174941746	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502175101430	Marionette	INFO	Ceased listening
+Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174941065	Marionette	INFO	Listening on port 3776
+1502174941318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502175102646	Marionette	INFO	Ceased listening
+0.0.1:3878
+1502174961769	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502174966081	Marionette	INFO	Listening on port 3884
+1502174967078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502175103417	Marionette	INFO	Ceased listening
+0.0.1:4002
+1502175031508	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502175034929	Marionette	INFO	Listening on port 4010
+1502175035239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502175102704	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502175102706	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502175103490	Marionette	INFO	Ceased listening
+on port 4083
+1502175075291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502175083409	Marionette	INFO	Ceased listening
+1502175520691	geckodriver	INFO	Listening on 127.0.0.1:4296
+1502175522742	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502175526781	Marionette	INFO	Listening on port 4302
+1502175526997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502175746816	geckodriver	INFO	Listening on 127.0.0.1:4420
+1502175748896	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502175752167	Marionette	INFO	Listening on port 4426
+1502175752521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502182718488	geckodriver	INFO	Listening on 127.0.0.1:5930
+1502182720541	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502182724392	Marionette	INFO	Listening on port 5937
+1502182724762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502182810027	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502183011472	Marionette	INFO	Ceased listening
+Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502182806312	Marionette	INFO	Listening on port 6021
+1502182806815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502182817986	Marionette	INFO	Ceased listening
+1502182988048	geckodriver	INFO	Listening on 127.0.0.1:6093
+1502182990099	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502182993699	Marionette	INFO	Listening on port 6099
+1502182994064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183008900	Marionette	INFO	Ceased listening
+1502183025003	geckodriver	INFO	Listening on 127.0.0.1:6167
+1502183027057	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502183030967	Marionette	INFO	Listening on port 6174
+1502183031229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183040364	Marionette	INFO	Ceased listening
+1502183057519	geckodriver	INFO	Listening on 127.0.0.1:6246
+1502183059565	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502183062765	Marionette	INFO	Listening on port 6252
+1502183063258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183149926	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+te errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183232288	geckodriver	INFO	Listening on 127.0.0.1:6417
+1502183234352	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502183239623	Marionette	INFO	Listening on port 6423
+1502183239867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183280924	geckodriver	INFO	Listening on 127.0.0.1:6499
+1502183282967	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502183286875	Marionette	INFO	Listening on port 6505
+1502183287205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183322355	geckodriver	INFO	Listening on 127.0.0.1:6611
+1502183324412	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502183328110	Marionette	INFO	Listening on port 6617
+1502183328537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183405822	geckodriver	INFO	Listening on 127.0.0.1:6761
+1502183407882	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502183411384	Marionette	INFO	Listening on port 6768
+1502183411653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183451901	geckodriver	INFO	Listening on 127.0.0.1:6885
+1502183453947	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502183457372	Marionette	INFO	Listening on port 6891
+1502183457637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502183546143	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502184330482	Marionette	INFO	Ceased listening
+0.0.1:7110
+1502184200079	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502184204174	Marionette	INFO	Listening on port 7116
+1502184204571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502184292553	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502184328913	Marionette	INFO	Ceased listening
+Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502184250570	Marionette	INFO	Listening on port 7237
+1502184251795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502184327306	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502184327701	Marionette	INFO	Ceased listening
+Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502184293770	Marionette	INFO	Listening on port 7322
+1502184294078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502184319481	Marionette	INFO	Ceased listening
+1502184333774	geckodriver	INFO	Listening on 127.0.0.1:7402
+1502184335820	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502184339438	Marionette	INFO	Listening on port 7408
+1502184339610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502184683581	Marionette	INFO	Ceased listening
+0.0.1:7494
+1502184505280	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502184508308	Marionette	INFO	Listening on port 7500
+1502184508634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502184681849	Marionette	INFO	Ceased listening
+1502184685316	geckodriver	INFO	Listening on 127.0.0.1:7584
+1502184687353	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502184690473	Marionette	INFO	Listening on port 7590
+1502184690750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502191979469	Marionette	INFO	Ceased listening
+0.0.1:8258
+1502191840002	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502191847742	Marionette	INFO	Listening on port 8264
+1502191847888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502191974299	Marionette	INFO	Ceased listening
+1502191977589	geckodriver	INFO	Listening on 127.0.0.1:8341
+1502191979659	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502191986218	Marionette	INFO	Listening on port 8348
+1502191987013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502192894925	Marionette	INFO	Ceased listening
+0
+1502192051606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502192895536	Marionette	INFO	Ceased listening
+3
+1502192341748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502192896047	Marionette	INFO	Ceased listening
+0.0.1:8607
+1502192722362	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502192726220	Marionette	INFO	Listening on port 8613
+1502192726495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502192737805	Marionette	INFO	Ceased listening
+1502192739020	geckodriver	INFO	Listening on 127.0.0.1:8667
+1502192741076	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502192745501	Marionette	INFO	Listening on port 8673
+1502192746306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502192896515	Marionette	INFO	Ceased listening
+1502192898414	geckodriver	INFO	Listening on 127.0.0.1:8748
+1502192900482	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502192904333	Marionette	INFO	Listening on port 8754
+1502192904707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502192945423	Marionette	INFO	Ceased listening
+1502192947136	geckodriver	INFO	Listening on 127.0.0.1:8820
+1502192949209	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502192952348	Marionette	INFO	Listening on port 8826
+1502192952639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502194196742	Marionette	INFO	Ceased listening
+6
+1502193066755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502193090366	Marionette	INFO	Ceased listening
+1502193490849	geckodriver	INFO	Listening on 127.0.0.1:8974
+1502193492885	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502193495896	Marionette	INFO	Listening on port 8980
+1502193496174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502194189272	Marionette	INFO	Ceased listening
+0
+1502193562775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502193622739	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1502193623086	Marionette	INFO	Ceased listening
+1502193624989	geckodriver	INFO	Listening on 127.0.0.1:9116
+1502193627043	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502193630091	Marionette	INFO	Listening on port 9122
+1502193630339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502193730837	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502194186234	Marionette	INFO	Ceased listening
+Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502193667027	Marionette	INFO	Listening on port 9185
+1502193667816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502194187601	Marionette	INFO	Ceased listening
+0.0.1:9249
+1502193704482	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502193709561	Marionette	INFO	Listening on port 9255
+1502193711691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502194190017	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502194190022	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502194190537	Marionette	INFO	Ceased listening
+on port 9359
+1502194016847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502194191444	Marionette	INFO	Ceased listening
+0.0.1:9422
+1502194051324	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502194056491	Marionette	INFO	Listening on port 9428
+1502194056890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502194191907	Marionette	INFO	Ceased listening
+1502194374961	geckodriver	INFO	Listening on 127.0.0.1:9523
+1502194377034	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502194382068	Marionette	INFO	Listening on port 9530
+1502194382418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502194393915	Marionette	INFO	Ceased listening
+1502194525149	geckodriver	INFO	Listening on 127.0.0.1:9593
+1502194527199	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502194530728	Marionette	INFO	Listening on port 9599
+1502194530947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502194607842	geckodriver	INFO	Listening on 127.0.0.1:9665
+1502194609944	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502194613017	Marionette	INFO	Listening on port 9671
+1502194613284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2194780238	Marionette	INFO	Listening on port 9751
+1502194780516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195072796	geckodriver	INFO	Listening on 127.0.0.1:9838
+1502195074865	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195077912	Marionette	INFO	Listening on port 9844
+1502195078206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195087022	Marionette	INFO	Ceased listening
+1502195136386	geckodriver	INFO	Listening on 127.0.0.1:9903
+1502195138436	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195141881	Marionette	INFO	Listening on port 9909
+1502195142114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2195216116	Marionette	INFO	Listening on port 9980
+1502195216411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195224636	Marionette	INFO	Ceased listening
+1502195302671	geckodriver	INFO	Listening on 127.0.0.1:10049
+1502195304732	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195307970	Marionette	INFO	Listening on port 10056
+1502195308397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195316495	Marionette	INFO	Ceased listening
+1502195377590	geckodriver	INFO	Listening on 127.0.0.1:10119
+1502195379648	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195382700	Marionette	INFO	Listening on port 10125
+1502195382929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195391028	Marionette	INFO	Ceased listening
+1502195443439	geckodriver	INFO	Listening on 127.0.0.1:10181
+1502195445489	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195449263	Marionette	INFO	Listening on port 10187
+1502195449606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195456992	Marionette	INFO	Ceased listening
+1502195500461	geckodriver	INFO	Listening on 127.0.0.1:10251
+1502195502521	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195506177	Marionette	INFO	Listening on port 10257
+1502195506665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195520485	Marionette	INFO	Ceased listening
+1502195565883	geckodriver	INFO	Listening on 127.0.0.1:10315
+1502195567928	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195571305	Marionette	INFO	Listening on port 10321
+1502195571567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195579553	Marionette	INFO	Ceased listening
+1502195837533	geckodriver	INFO	Listening on 127.0.0.1:10405
+1502195839575	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502195842634	Marionette	INFO	Listening on port 10411
+1502195842929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502195851401	Marionette	INFO	Ceased listening
+1502240393548	geckodriver	INFO	Listening on 127.0.0.1:1983
+1502240395669	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502240400199	Marionette	INFO	Listening on port 1990
+1502240401273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502240430990	geckodriver	INFO	Listening on 127.0.0.1:2059
+1502240433080	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502240436780	Marionette	INFO	Listening on port 2065
+1502240437251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502240452963	geckodriver	INFO	Listening on 127.0.0.1:2134
+1502240455069	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502240459237	Marionette	INFO	Listening on port 2140
+1502240459676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502240481308	geckodriver	INFO	Listening on 127.0.0.1:2206
+1502240483382	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502240488198	Marionette	INFO	Listening on port 2212
+1502240488723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502428875244	geckodriver	INFO	Listening on 127.0.0.1:33457
+1502428877574	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502428903509	Marionette	INFO	Listening on port 33463
+1502428903909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502429017847	Marionette	INFO	Ceased listening
+1502429212036	geckodriver	INFO	Listening on 127.0.0.1:33822
+1502429214149	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502429221688	Marionette	INFO	Listening on port 33828
+1502429222155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502429253784	Marionette	INFO	New connections will no longer be accepted
+1502429292539	geckodriver	INFO	Listening on 127.0.0.1:34086
+1502429294613	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502429298854	Marionette	INFO	Listening on port 34092
+1502429299952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502429322927	Marionette	INFO	New connections will no longer be accepted
+1502429365663	geckodriver	INFO	Listening on 127.0.0.1:34377
+1502429367735	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502429371505	Marionette	INFO	Listening on port 34383
+1502429371880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502429399430	Marionette	INFO	Ceased listening
+1502429513735	geckodriver	INFO	Listening on 127.0.0.1:34675
+1502429515811	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502429520325	Marionette	INFO	Listening on port 34681
+1502429521115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502429547022	Marionette	INFO	New connections will no longer be accepted
+1502429653479	geckodriver	INFO	Listening on 127.0.0.1:34947
+1502429655536	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502429674468	Marionette	INFO	Listening on port 34953
+1502429677134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502430316399	Marionette	INFO	Ceased listening
+388
+1502429983606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502430317775	Marionette	INFO	Ceased listening
+1502430501618	geckodriver	INFO	Listening on 127.0.0.1:35722
+1502430503701	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502430507579	Marionette	INFO	Listening on port 35728
+1502430507865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502430655662	geckodriver	INFO	Listening on 127.0.0.1:36008
+1502430657717	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502430662663	Marionette	INFO	Listening on port 36015
+1502430662950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502430700128	Marionette	INFO	New connections will no longer be accepted
+1502430844788	geckodriver	INFO	Listening on 127.0.0.1:36348
+1502430846888	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502430850406	Marionette	INFO	Listening on port 36354
+1502430850681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502430894047	Marionette	INFO	New connections will no longer be accepted
+1502434253343	geckodriver	INFO	Listening on 127.0.0.1:37518
+1502434255402	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502434258574	Marionette	INFO	Listening on port 37524
+1502434259076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502434298537	Marionette	INFO	New connections will no longer be accepted
+1502434862878	geckodriver	INFO	Listening on 127.0.0.1:37986
+1502434864916	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502434869077	Marionette	INFO	Listening on port 37992
+1502434870178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+1502434967247	geckodriver	INFO	Listening on 127.0.0.1:38224
+1502434969335	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502434972414	Marionette	INFO	Listening on port 38230
+1502434972777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502434999233	Marionette	INFO	New connections will no longer be accepted
+1502435110548	geckodriver	INFO	Listening on 127.0.0.1:38527
+1502435112613	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502435116071	Marionette	INFO	Listening on port 38533
+1502435116297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502435143659	Marionette	INFO	New connections will no longer be accepted
+1502435258243	geckodriver	INFO	Listening on 127.0.0.1:38837
+1502435260292	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502435263874	Marionette	INFO	Listening on port 38843
+1502435264152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502435287289	Marionette	INFO	New connections will no longer be accepted
+1502435756256	geckodriver	INFO	Listening on 127.0.0.1:39146
+1502435758310	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502435761536	Marionette	INFO	Listening on port 39153
+1502435761976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502435786449	geckodriver	INFO	Listening on 127.0.0.1:39218
+1502435788499	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502435792439	Marionette	INFO	Listening on port 39224
+1502435792691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502435802138	Marionette	INFO	Ceased listening
+1502435829405	geckodriver	INFO	Listening on 127.0.0.1:39290
+1502435831482	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502435835363	Marionette	INFO	Listening on port 39296
+1502435835625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502436431834	geckodriver	INFO	Listening on 127.0.0.1:39394
+1502436433892	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502436437607	Marionette	INFO	Listening on port 39400
+1502436438101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502436445909	Marionette	INFO	Ceased listening
+1502436550406	geckodriver	INFO	Listening on 127.0.0.1:39470
+1502436552458	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502436556009	Marionette	INFO	Listening on port 39476
+1502436556233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502436745633	geckodriver	INFO	Listening on 127.0.0.1:39591
+1502436747713	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502436751163	Marionette	INFO	Listening on port 39597
+1502436751469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502436763265	Marionette	INFO	Ceased listening
+1502436855290	geckodriver	INFO	Listening on 127.0.0.1:39653
+1502436857371	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502436861174	Marionette	INFO	Listening on port 39659
+1502436861515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.10.223:61601/js/jquery-1.8.3.min.js, line 2: NS_ERROR_NOT_AVAILABLE: 
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+_writeState@resource://app/modules/sessionstore/SessionSaver.jsm:265:12
+_saveState@resource://app/modules/sessionstore/SessionSaver.jsm:236:12
+_saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:249:5
+runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+1502506471898	Marionette	INFO	Ceased listening
+rors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20131022, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+1502442144032	Marionette	INFO	Ceased listening
+ing on 127.0.0.1:39982
+1502437246050	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502437249549	Marionette	INFO	Listening on port 39988
+1502437249748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502437921390	geckodriver	INFO	Listening on 127.0.0.1:40116
+1502437923451	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502437926725	Marionette	INFO	Listening on port 40122
+1502437927135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502437941405	geckodriver	INFO	Listening on 127.0.0.1:40218
+1502437943457	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502437946941	Marionette	INFO	Listening on port 40224
+1502437947177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502438005953	geckodriver	INFO	Listening on 127.0.0.1:40333
+1502438008040	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502438010983	Marionette	INFO	Listening on port 40339
+1502438011244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502506308386	geckodriver	INFO	Listening on 127.0.0.1:45970
+1502506310628	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502506322483	Marionette	INFO	Listening on port 45976
+1502506322969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502506339091	Marionette	INFO	Ceased listening
+1502506491335	geckodriver	INFO	Listening on 127.0.0.1:46068
+1502506493397	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502506518021	Marionette	INFO	Listening on port 46075
+1502506519282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502506995111	geckodriver	INFO	Listening on 127.0.0.1:46381
+1502506997151	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507002189	Marionette	INFO	Listening on port 46387
+1502507002445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502507328115	Marionette	INFO	Ceased listening
+0.0.1:46467
+1502507187133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507191457	Marionette	INFO	Listening on port 46473
+1502507192604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502507268688	Marionette	INFO	Ceased listening
+1502507329790	geckodriver	INFO	Listening on 127.0.0.1:46558
+1502507331850	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507336100	Marionette	INFO	Listening on port 46564
+1502507337390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502507560679	Marionette	INFO	Ceased listening
+0.0.1:46642
+1502507447926	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507452389	Marionette	INFO	Listening on port 46648
+1502507453257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502507559630	Marionette	INFO	Ceased listening
+1502507600020	geckodriver	INFO	Listening on 127.0.0.1:46726
+1502507602080	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507606745	Marionette	INFO	Listening on port 46732
+1502507607375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502507732193	Marionette	INFO	Ceased listening
+0.0.1:46809
+1502507673877	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507678142	Marionette	INFO	Listening on port 46817
+1502507679398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502507731441	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 396: Error: OS.File has been shut down. Rejecting post to stat
+1502507733825	geckodriver	INFO	Listening on 127.0.0.1:46886
+1502507735879	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507741167	Marionette	INFO	Listening on port 46892
+1502507741518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502507811807	Marionette	INFO	Ceased listening
+1502507814541	geckodriver	INFO	Listening on 127.0.0.1:46968
+1502507816608	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502507821367	Marionette	INFO	Listening on port 46974
+1502507822011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508139070	Marionette	INFO	Ceased listening
+0.0.1:47064
+1502508079186	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508083645	Marionette	INFO	Listening on port 47070
+1502508084503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508137974	Marionette	INFO	Ceased listening
+1502508173088	geckodriver	INFO	Listening on 127.0.0.1:47142
+1502508175152	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508179583	Marionette	INFO	Listening on port 47148
+1502508180493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508391780	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502508391783	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502508392335	Marionette	INFO	Ceased listening
+ on port 47226
+1502508294767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502508303107	Marionette	INFO	Ceased listening
+1502508305287	geckodriver	INFO	Listening on 127.0.0.1:47279
+1502508307349	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508312485	Marionette	INFO	Listening on port 47285
+1502508312791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508390121	Marionette	INFO	Ceased listening
+1502508394438	geckodriver	INFO	Listening on 127.0.0.1:47365
+1502508396485	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508401020	Marionette	INFO	Listening on port 47371
+1502508401848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508678240	Marionette	INFO	Ceased listening
+0.0.1:47448
+1502508539118	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508543982	Marionette	INFO	Listening on port 47454
+1502508544419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508677273	Marionette	INFO	Ceased listening
+0.0.1:47535
+1502508630693	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508635291	Marionette	INFO	Listening on port 47541
+1502508636100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508676385	Marionette	INFO	Ceased listening
+1502508679670	geckodriver	INFO	Listening on 127.0.0.1:47650
+1502508681714	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508686534	Marionette	INFO	Listening on port 47656
+1502508687024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502508773585	Marionette	INFO	Ceased listening
+1502508799844	geckodriver	INFO	Listening on 127.0.0.1:47888
+1502508801904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508806077	Marionette	INFO	Listening on port 47894
+1502508806326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502509281849	Marionette	INFO	Ceased listening
+0.0.1:48014
+1502508965981	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502508970659	Marionette	INFO	Listening on port 48020
+1502508971381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502509281375	Marionette	INFO	Ceased listening
+0.0.1:48143
+1502509158552	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502509163350	Marionette	INFO	Listening on port 48149
+1502509163819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502509280884	Marionette	INFO	Ceased listening
+0.0.1:48260
+1502509198153	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502509203121	Marionette	INFO	Listening on port 48266
+1502509203437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502509279967	Marionette	INFO	Ceased listening
+1502509457483	geckodriver	INFO	Listening on 127.0.0.1:48375
+1502509459538	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502509464156	Marionette	INFO	Listening on port 48381
+1502509464828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502509474157	Marionette	INFO	Ceased listening
+1502509483416	geckodriver	INFO	Listening on 127.0.0.1:48490
+1502509485438	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502509490566	Marionette	INFO	Listening on port 48496
+1502509490862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502510280029	Marionette	INFO	Ceased listening
+619
+1502509586966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502509616542	Marionette	INFO	Ceased listening
+1502509618216	geckodriver	INFO	Listening on 127.0.0.1:48730
+1502509620301	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502509624883	Marionette	INFO	Listening on port 48736
+1502509625821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502510279045	Marionette	INFO	Ceased listening
+033
+1502510076572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502510090588	Marionette	INFO	Ceased listening
+1502510197411	geckodriver	INFO	Listening on 127.0.0.1:49324
+1502510199444	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502510204822	Marionette	INFO	Listening on port 49341
+1502510205189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502510226808	Marionette	INFO	Ceased listening
+1502510282168	geckodriver	INFO	Listening on 127.0.0.1:49848
+1502510284234	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502510290163	Marionette	INFO	Listening on port 49866
+1502510290797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502510303508	Marionette	INFO	Ceased listening
+1502510305856	geckodriver	INFO	Listening on 127.0.0.1:49981
+1502510307904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502510313070	Marionette	INFO	Listening on port 49993
+1502510313482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502511302545	Marionette	INFO	Ceased listening
+726
+1502510603119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502510616278	Marionette	INFO	Ceased listening
+1502510689919	geckodriver	INFO	Listening on 127.0.0.1:50848
+1502510691975	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502510700982	Marionette	INFO	Listening on port 50854
+1502510701615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502510719146	Marionette	INFO	Ceased listening
+1502510762599	geckodriver	INFO	Listening on 127.0.0.1:50973
+1502510764633	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502510769680	Marionette	INFO	Listening on port 50979
+1502510770005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502511300831	Marionette	INFO	Ceased listening
+0.0.1:51110
+1502510875675	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502510881518	Marionette	INFO	Listening on port 51116
+1502510881932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502511299041	Marionette	INFO	Ceased listening
+0.0.1:51234
+1502510935945	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502510941784	Marionette	INFO	Listening on port 51240
+1502510942236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502511297749	Marionette	INFO	Ceased listening
+0.0.1:51370
+1502511113637	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502511128719	Marionette	INFO	Listening on port 51376
+1502511130765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502511145480	Marionette	INFO	Ceased listening
+1502511592338	geckodriver	INFO	Listening on 127.0.0.1:51513
+1502511595061	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502511610806	Marionette	INFO	Listening on port 51519
+1502511611683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502511667371	Marionette	INFO	Ceased listening
+1502511669768	geckodriver	INFO	Listening on 127.0.0.1:51588
+1502511671821	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502511680618	Marionette	INFO	Listening on port 51594
+1502511681486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502511698952	Marionette	INFO	Ceased listening
+1502511708639	geckodriver	INFO	Listening on 127.0.0.1:51713
+1502511710709	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502511727127	Marionette	INFO	Listening on port 51719
+1502511727605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502511753385	Marionette	INFO	Ceased listening
+1502511798063	geckodriver	INFO	Listening on 127.0.0.1:51845
+1502511800104	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502511805389	Marionette	INFO	Listening on port 51851
+1502511805766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502511820048	Marionette	INFO	Ceased listening
+1502512022657	geckodriver	INFO	Listening on 127.0.0.1:51967
+1502512024712	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512029103	Marionette	INFO	Listening on port 51973
+1502512030104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512045588	Marionette	INFO	Ceased listening
+1502512087010	geckodriver	INFO	Listening on 127.0.0.1:52084
+1502512089082	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512093996	Marionette	INFO	Listening on port 52090
+1502512094433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512109143	Marionette	INFO	Ceased listening
+1502512118013	geckodriver	INFO	Listening on 127.0.0.1:52204
+1502512120065	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512124693	Marionette	INFO	Listening on port 52210
+1502512125437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512143006	Marionette	INFO	Ceased listening
+1502512233430	geckodriver	INFO	Listening on 127.0.0.1:52326
+1502512235489	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512239916	Marionette	INFO	Listening on port 52332
+1502512240830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512257732	Marionette	INFO	Ceased listening
+1502512279975	geckodriver	INFO	Listening on 127.0.0.1:52449
+1502512282062	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512286307	Marionette	INFO	Listening on port 52455
+1502512287394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512302542	Marionette	INFO	Ceased listening
+1502512349892	geckodriver	INFO	Listening on 127.0.0.1:52623
+1502512351922	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512358496	Marionette	INFO	Listening on port 52629
+1502512359387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512373645	Marionette	INFO	Ceased listening
+1502512391050	geckodriver	INFO	Listening on 127.0.0.1:52717
+1502512393104	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512398725	Marionette	INFO	Listening on port 52723
+1502512399145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512411715	Marionette	INFO	Ceased listening
+1502512475833	geckodriver	INFO	Listening on 127.0.0.1:52808
+1502512477913	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512483050	Marionette	INFO	Listening on port 52814
+1502512483415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512503421	Marionette	INFO	Ceased listening
+1502512515305	geckodriver	INFO	Listening on 127.0.0.1:52891
+1502512517335	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512521983	Marionette	INFO	Listening on port 52897
+1502512522620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512901611	Marionette	INFO	Ceased listening
+0.0.1:53024
+1502512774399	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512778561	Marionette	INFO	Listening on port 53030
+1502512779706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512797587	Marionette	INFO	Ceased listening
+1502512869639	geckodriver	INFO	Listening on 127.0.0.1:53140
+1502512871703	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512876254	Marionette	INFO	Listening on port 53146
+1502512877141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502512904071	geckodriver	INFO	Listening on 127.0.0.1:53262
+1502512906129	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502512911045	Marionette	INFO	Listening on port 53268
+1502512911393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1502513204494	geckodriver	INFO	Listening on 127.0.0.1:53386
+1502513206557	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502513211140	Marionette	INFO	Listening on port 53392
+1502513211862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61601/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement

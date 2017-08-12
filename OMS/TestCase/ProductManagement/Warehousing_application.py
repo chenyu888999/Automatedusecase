@@ -29,7 +29,7 @@ class Warehousing(unittest.TestCase):
         cls.OddNumbers = []
         #cls.verification.append(cls.driver.get_text("id=user_info_sys"))
         cls.conf = configparser.ConfigParser()
-        cls.conf.read("F:\Automated use case\OMS\Config\Variable_Config.conf")
+        cls.conf.read("F:\Automated_use_case\OMS\Config\Variable_Config.conf")
 
     @classmethod
     def tearDownClass(cls):
@@ -129,6 +129,7 @@ class Warehousing(unittest.TestCase):
         driver = self.driver
         driver.js("leftMenu('25','收货','/receiving/transfer/received?quick=25')")    #进入收货选项卡
         driver.switch_to_frame("name=iframe-container-25")
+        driver.wait(1)
         driver.send_key("id=operationCode",self.OddNumbers[0])                #输入入库单号
         driver.click("id=toSearch")
         driver.clickxpath(".//*[@class='table-module']/tbody/tr/td/input")

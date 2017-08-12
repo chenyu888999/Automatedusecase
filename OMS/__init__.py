@@ -7,5 +7,7 @@
 @Describe: 
 '''
 
-import OMS.TestCase.ProductManagement.Warehousing_application
-import OMS.TestCase.ProductManagement.Create_product
+import os,sys
+print(os.getcwd())
+
+

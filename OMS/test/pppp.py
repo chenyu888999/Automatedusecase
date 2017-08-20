@@ -9,11 +9,15 @@
 
 from selenium import  webdriver
 from selenium.webdriver.common.keys import Keys
-from OMS.Keyword.Element import Oms
+from Automatedusecase.OMS.Keyword.Element import Oms
 import time
+from Automatedusecase.OMS.test.logining import Logger
+
+mylogger = Logger(logger='TestMyLog').getlog()
 
 
 driver = Oms("firefox")
+mylogger.info("打开浏览器")
 driver.get("http://192.168.10.223:61601/")
 driver.max_window()
 driver.find_element("id=userName").send_keys("gcwms")

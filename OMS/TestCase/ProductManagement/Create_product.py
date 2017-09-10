@@ -7,10 +7,11 @@ author:陈宇
 date:2017-7-1
 '''
 
-import unittest
+import unittest,nose
+from flaky import flaky
 from selenium.webdriver.common.keys import Keys
 from OMS.Config.Element_list import _const
-from OMS.Keyword.Element import Oms
+from OMS.ElementKey.BaseKey.Element import Oms
 import datetime,time
 import win32com,win32gui,win32con
 import configparser
@@ -42,6 +43,7 @@ class Create_Product(unittest.TestCase):
         cls.driver.quit()
 
     #创建产品
+    @flaky(max_runs=3)
     def test_01_create(self):
         self.driver.click("css=.sidebar-header")
         self.driver.js("leftMenu('55','创建商品','/product/product/create?quick=55')")
@@ -114,7 +116,9 @@ class Create_Product(unittest.TestCase):
         self.driver.click("id=popup_ok")
         self.driver.wait_element("css=#dialog-auto-alert-tip > p:nth-child(2)",6)
         self.verification.append(self.driver.get_text("css=#dialog-auto-alert-tip > p:nth-child(2)"))
-        self.driver.clickxpath("(//button[@type='button'])[13]")
+        #self.driver.is_visible("(xpath=//button[@type='button'])[26]",10)
+        '''self.driver.clickxpath("(//button[@type='button'])[24]")
+
         try:
             table = self.driver.find_element("css=#table-module-list-data")
             table_rows = len(table.find_elements_by_tag_name('tr'))
@@ -124,7 +128,7 @@ class Create_Product(unittest.TestCase):
             else:
                 print("产品名称为:name%s" % self.proname + "提交审核未成功")
         except:
-            return False
+            return False'''
 
     #海外仓审核操作
     def test_03_audit(self):
@@ -157,6 +161,8 @@ class Create_Product(unittest.TestCase):
         self.assertEqual("SKU:sku%s 创建成功" % self.sku, self.verification[1])  # 创建成功
         self.assertEqual("SKU:SKU%s 审核成功" % self.check_sku ,self.verification[2])  #审核成功
         self.assertEqual("Success", self.verification[3])
+
+
 
 
 

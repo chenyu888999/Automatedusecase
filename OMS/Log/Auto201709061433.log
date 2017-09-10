@@ -1,0 +1,8 @@
+2017-09-06 14:33:32,887 - Auto - INFO - 打开网页成功http://192.168.10.223:61604/
+2017-09-06 14:33:33,062 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03065A90> 页面中成功找到 ('id', 'userName') 元素
+2017-09-06 14:33:33,132 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03065A90> 页面中成功找到 ('id', 'userPass') 元素
+2017-09-06 14:33:33,195 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03065A90> 页面中成功找到 ('css selector', '.loginbtn.radius5') 元素
+2017-09-06 14:33:34,200 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03065A90>页面执行js:leftMenu('45','入库单管理','/receiving/receiving/index?quick=45')成功
+2017-09-06 14:33:34,201 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03065A90>切换frame:('id', 'iframe-container-45')成功
+2017-09-06 14:33:34,261 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03065A90> 页面中成功找到 ('id', 'iframe-container-45') 元素
+2017-09-06 14:33:37,350 - Auto - ERROR - 未找到文本值为None的元素

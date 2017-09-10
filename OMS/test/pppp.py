@@ -9,15 +9,13 @@
 
 from selenium import  webdriver
 from selenium.webdriver.common.keys import Keys
-from Automatedusecase.OMS.Keyword.Element import Oms
-import time
-from Automatedusecase.OMS.test.logining import Logger
+from OMS.ElementKey.BaseKey.Element import Oms
+import time,os,sys
+from OMS.ElementKey.BaseKey.Log import Logger
 
-mylogger = Logger(logger='TestMyLog').getlog()
 
 
 driver = Oms("firefox")
-mylogger.info("打开浏览器")
 driver.get("http://192.168.10.223:61601/")
 driver.max_window()
 driver.find_element("id=userName").send_keys("gcwms")
@@ -35,23 +33,31 @@ driver.clickxpath(".//*[@id='search-module-baseSearch']/div[5]/input")
 #table_rows = table.find_elements_by_tag_name('tr')
 
 a = driver.get_table_rows(".//*[@id='receivedForm']/table")
+print(len(a))
 b = driver.get_table_cloumn(".//*[@id='receivedForm']/table",1)
 c = driver.get_table_text(".//*[@id='receivedForm']/table",2,3)
 time.sleep(2)
-d = driver.get_table_text_row(".//*[@id='receivedForm']/table",4,"G591")
-
+d = driver.get_table_text_row(".//*[@id='receivedForm']/table",4,"G296")
 print(d)
-
-driver.click_table_element(".//*[@id='receivedForm']/table",d,4,"G591")
+driver.click_table_element1(".//*[@id='receivedForm']/table",d,4,"G296")
 time.sleep(2)
-driver.close()
-
-
-
-
+#driver.close()
 
 
 '''
+#driver.js("toAdvancedSearch")
+driver.click("text=切换到高级查询")
+driver.click("id=dateFor")
+#a = driver.get_table_rows_th(".//*[@id='ui-datepicker-div']/table/thead/tr")
+
+c = driver.get_table_text_col(".//*[@id='ui-datepicker-div']/table/tbody","5")
+print(c)
+b = driver.get_table_text_row1(".//*[@id='ui-datepicker-div']/table/tbody","5")
+print(b)
+
+driver.click_table_element1(".//*[@id='ui-datepicker-div']/table/tbody",b,c,"5"
+
+
 
 
 print(len(table_rows))
@@ -59,38 +65,15 @@ table_cols = table_rows[0].find_elements_by_tag_name('td')
 print(len(table_cols))
 
 row1_col2 = table_rows[1].find_elements_by_tag_name('td')[2].text
-print(row1_col2)
-
-for index,i in enumerate(table_rows):
-    if i.find_elements_by_tag_name('td')[4].text == "G591":
-        b = index
-        print(b)
-
-        table_rows[b].find_elements_by_tag_name('td')[4].find_element_by_link_text("G591").click()
-        break
-
-
-time.sleep(10)
-
-driver.close()
-
-
-
-def get_table_rows():
-
-
-def get_table_cloums():
-
-def get_table_text():
-
-def table_should_contain():
-
-def table_element_click()
+print(row1_col2)'''
 
 
 
 
-driver.find_element_by_xpath("fdsfdf").text'''
+
+
+
+
 
 
 

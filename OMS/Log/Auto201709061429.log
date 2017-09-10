@@ -1,0 +1,16 @@
+2017-09-06 14:29:19,697 - Auto - INFO - 打开网页成功http://192.168.10.223:61604/
+2017-09-06 14:29:19,782 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C5AD0> 页面中成功找到 ('id', 'userName') 元素
+2017-09-06 14:29:19,848 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C5AD0> 页面中成功找到 ('id', 'userPass') 元素
+2017-09-06 14:29:19,909 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C5AD0> 页面中成功找到 ('css selector', '.loginbtn.radius5') 元素
+2017-09-06 14:29:22,101 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C5AD0>页面执行js:leftMenu('45','入库单管理','/receiving/receiving/index?quick=45')成功
+2017-09-06 14:29:22,102 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C5AD0>切换frame:('id', 'iframe-container-45')成功
+2017-09-06 14:29:22,158 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C5AD0> 页面中成功找到 ('id', 'iframe-container-45') 元素
+2017-09-06 14:29:25,472 - Auto - INFO - 点击元素成功
+2017-09-06 14:30:02,070 - Auto - INFO - 打开网页成功http://192.168.10.223:61604/
+2017-09-06 14:30:02,215 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03066AD0> 页面中成功找到 ('id', 'userName') 元素
+2017-09-06 14:30:02,291 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03066AD0> 页面中成功找到 ('id', 'userPass') 元素
+2017-09-06 14:30:02,446 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03066AD0> 页面中成功找到 ('css selector', '.loginbtn.radius5') 元素
+2017-09-06 14:30:03,393 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03066AD0>页面执行js:leftMenu('45','入库单管理','/receiving/receiving/index?quick=45')成功
+2017-09-06 14:30:03,393 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03066AD0>切换frame:('id', 'iframe-container-45')成功
+2017-09-06 14:30:03,454 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03066AD0> 页面中成功找到 ('id', 'iframe-container-45') 元素
+2017-09-06 14:30:06,763 - Auto - INFO - 点击元素成功

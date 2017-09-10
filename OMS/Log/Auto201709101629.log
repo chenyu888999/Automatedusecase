@@ -1,0 +1,10 @@
+2017-09-10 16:29:55,793 - Auto - INFO - 打开网页成功http://192.168.10.223:61604/
+2017-09-10 16:29:56,039 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310> 页面中成功找到 ('id', 'userName') 元素
+2017-09-10 16:29:56,125 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310> 页面中成功找到 ('id', 'userPass') 元素
+2017-09-10 16:29:56,218 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310> 页面中成功找到 ('css selector', '.loginbtn.radius5') 元素
+2017-09-10 16:29:57,409 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310>页面执行js:leftMenu('45','入库单管理','/receiving/receiving/index?quick=45')成功
+2017-09-10 16:29:57,409 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310>切换frame:('id', 'iframe-container-45')成功
+2017-09-10 16:29:57,496 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310> 页面中成功找到 ('id', 'iframe-container-45') 元素
+2017-09-10 16:29:57,734 - Auto - INFO - 点击元素失败
+2017-09-10 16:29:59,798 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310> 页面中成功找到 ('css selector', '.asnVerifyBtn.baseBtn.opBtn') 元素
+2017-09-10 16:30:09,926 - Auto - ERROR - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03186310>页面未能找到('xpath', 'html/body/div[5]/div[3]/div/button[1]')元素

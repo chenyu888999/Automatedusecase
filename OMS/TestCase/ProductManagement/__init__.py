@@ -6,5 +6,6 @@
 @Software: PyCharm
 @Describe: 
 '''
-import OMS.TestCase.ProductManagement.Warehousing_application
-import OMS.TestCase.ProductManagement.Create_product
+#from . import Create_product,Warehousing_application
+
+

@@ -7,15 +7,15 @@ author:陈宇
 date:2017-7-5
 '''
 
-import unittest,time
-from OMS.Keyword.Element import Oms
+import unittest,time,os
+from OMS.ElementKey.BaseKey.Element import Oms
 from selenium.webdriver.common.keys import Keys
 import HTMLTestRunner
 import configparser
 
 
 
-
+path = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 class Warehousing(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -29,7 +29,7 @@ class Warehousing(unittest.TestCase):
         cls.OddNumbers = []
         #cls.verification.append(cls.driver.get_text("id=user_info_sys"))
         cls.conf = configparser.ConfigParser()
-        cls.conf.read("F:\Automated_use_case\OMS\Config\Variable_Config.conf")
+        cls.conf.read(path + "\Config\Variable_Config.conf")
 
     @classmethod
     def tearDownClass(cls):

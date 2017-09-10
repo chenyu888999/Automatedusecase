@@ -1,0 +1,8 @@
+2017-09-10 14:19:27,257 - Auto - INFO - 打开网页成功http://192.168.10.223:61604/
+2017-09-10 14:19:27,399 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03171730> 页面中成功找到 ('id', 'userName') 元素
+2017-09-10 14:19:27,511 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03171730> 页面中成功找到 ('id', 'userPass') 元素
+2017-09-10 14:19:27,579 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03171730> 页面中成功找到 ('css selector', '.loginbtn.radius5') 元素
+2017-09-10 14:19:29,943 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03171730>页面执行js:leftMenu('45','入库单管理','/receiving/receiving/index?quick=45')成功
+2017-09-10 14:19:29,943 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03171730>切换frame:('id', 'iframe-container-45')成功
+2017-09-10 14:19:30,011 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x03171730> 页面中成功找到 ('id', 'iframe-container-45') 元素
+2017-09-10 14:19:33,104 - Auto - ERROR - 未找到文本值为False的元素

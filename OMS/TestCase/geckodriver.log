@@ -346,3 +346,370 @@ JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?V=20140225,
 1502089487926	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
 1502089492375	Marionette	INFO	Listening on port 13116
 1502089493514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502771413625	geckodriver	INFO	Listening on 127.0.0.1:21559
+1502771416155	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502771436060	Marionette	INFO	Listening on port 21565
+1502771438956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502771473671	Marionette	INFO	New connections will no longer be accepted
+1502772052729	geckodriver	INFO	Listening on 127.0.0.1:21989
+1502772055026	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502772069476	Marionette	INFO	Listening on port 21995
+1502772069971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost.ptlogin2.qq.com:4300/pt_get_uins?r=0.5558578700141121&pt_local_tk=0.5199124168910225&callback=S3JSONPPREFIXu1uozl, line 1: ReferenceError: S3JSONPPREFIXu1uozl is not defined
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+1502799038007	geckodriver	INFO	Listening on 127.0.0.1:6346
+1502799040172	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502799049137	Marionette	INFO	Listening on port 6352
+1502799049637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502799091858	Marionette	INFO	Ceased listening
+0.0.1:6631
+1502799075503	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502799078399	Marionette	INFO	Listening on port 6637
+1502799078657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502799084302	Marionette	INFO	New connections will no longer be accepted
+1502799157021	geckodriver	INFO	Listening on 127.0.0.1:6738
+1502799159093	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502799162557	Marionette	INFO	Listening on port 6744
+1502799162882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1502799186952	Marionette	INFO	New connections will no longer be accepted
+1502799187415	geckodriver	INFO	Listening on 127.0.0.1:7023
+1502799189465	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502799192416	Marionette	INFO	Listening on port 7030
+1502799192668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+1503285785758	geckodriver	INFO	Listening on 127.0.0.1:45014
+1503285787807	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503285788953	Marionette	INFO	Enabled via --marionette
+[GPU 5796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503285792193	Marionette	INFO	Listening on port 45020
+1503285792391	Marionette	INFO	Listening on port 45020
+1503285793110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503285793180	Marionette	DEBUG	loaded listener.js
+1503285793318	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503285793386	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503285793387	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503285794260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285794809	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285794824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285794824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285794827	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285794830	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285795627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285795631	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285795684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://combo.b.qq.com/da/id.html?q=xf067m.ji7nl1.j6lljr1n&p=58z7r0.r19xnr.j6lljqzw&t=800110757&a=&c=4120167424&s=1.1.katw25.j6lljr2a&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503285796462	Marionette	DEBUG	Received DOM event "pageshow" for "http://combo.b.qq.com/da/id.html?q=xf067m.ji7nl1.j6lljr1n&p=58z7r0.r19xnr.j6lljqzw&t=800110757&a=&c=4120167424&s=1.1.katw25.j6lljr2a&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503285796466	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285797067	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503285797367	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503285797378	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503285797513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1503285797514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1503285797514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1503285797515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1503285797576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285797651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1503285797916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/system/home"
+1503285797983	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/system/home"
+1503285797985	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285798598	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503285799946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503285810192	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503285810256	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503285810260	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503285810375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1503285810375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1503285810393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503285810568	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+1503285810837	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61605/"
+1503285810945	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61605/"
+1503285810948	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61605/"
+1503285811119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503285811330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/system/home"
+1503285811710	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/system/home"
+1503285811711	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1503285813125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503285813559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 5796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503285879318	geckodriver	INFO	Listening on 127.0.0.1:45176
+1503285881398	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503285882959	Marionette	INFO	Enabled via --marionette
+[GPU 7968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503285886199	Marionette	INFO	Listening on port 45182
+1503285886244	Marionette	INFO	Listening on port 45182
+1503285886663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503285886703	Marionette	DEBUG	loaded listener.js
+1503285886830	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503285886945	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503285886945	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503285888061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285888515	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285888525	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285888526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285888529	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285888530	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285888650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285888655	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285888699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://combo.b.qq.com/da/id.html?q=84kjmb.t50vp8.j6lllr9g&p=mgcxt2.5o7ebo.j6lllr9f&t=800110757&a=&c=2252531712&s=1.1.rq6bkh.j6lllr9n&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503285888748	Marionette	DEBUG	Received DOM event "pageshow" for "http://combo.b.qq.com/da/id.html?q=84kjmb.t50vp8.j6lllr9g&p=mgcxt2.5o7ebo.j6lllr9f&t=800110757&a=&c=2252531712&s=1.1.rq6bkh.j6lllr9n&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503285888754	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285888985	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503285889607	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503285889614	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503285889727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1503285889727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1503285889727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1503285889728	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1503285889754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503285889783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1503285890268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/system/home"
+1503285890312	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/system/home"
+1503285890314	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503285890696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503285892052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 7968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503285894485	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503285894488	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 3416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503286304664	geckodriver	INFO	Listening on 127.0.0.1:45290
+1503286306716	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503286307648	Marionette	INFO	Enabled via --marionette
+[GPU 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503286310198	Marionette	INFO	Listening on port 45296
+1503286310210	Marionette	INFO	Listening on port 45296
+1503286310346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503286310388	Marionette	DEBUG	loaded listener.js
+1503286310517	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503286310722	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503286310723	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503286311444	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286311663	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286311677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286311679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286311686	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286311689	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286311772	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286311774	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286311957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://combo.b.qq.com/da/id.html?q=vxwcel.qogud8.j6llutry&p=llh0wp.ij23wg.j6llutrx&t=800110757&a=&c=2745066496&s=1.1.3ean5r.j6lluts2&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503286312022	Marionette	DEBUG	Received DOM event "pageshow" for "http://combo.b.qq.com/da/id.html?q=vxwcel.qogud8.j6llutry&p=llh0wp.ij23wg.j6llutrx&t=800110757&a=&c=2745066496&s=1.1.3ean5r.j6lluts2&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503286312026	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286312797	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503286313532	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503286313538	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503286313647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1503286313647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1503286313648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1503286313648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1503286313712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286313729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1503286314218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/system/home"
+1503286314289	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/system/home"
+1503286314291	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286314758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286316094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286326288	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503286326339	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503286326341	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503286326444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1503286326444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1503286326485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503286326676	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+1503286326936	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61605/"
+1503286327031	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61605/"
+1503286327035	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61605/"
+1503286327180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503286327417	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/system/home"
+1503286327782	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/system/home"
+1503286327783	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1503286329214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286329602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7592] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503286357323	geckodriver	INFO	Listening on 127.0.0.1:45458
+1503286359379	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503286361124	Marionette	INFO	Enabled via --marionette
+[GPU 8444] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503286363733	Marionette	INFO	Listening on port 45464
+1503286363789	Marionette	INFO	Listening on port 45464
+1503286364776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503286364824	Marionette	DEBUG	loaded listener.js
+1503286364947	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503286365014	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503286365015	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503286365703	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286365965	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286365980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286365981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286365983	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286365987	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286366094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286366100	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286366570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://combo.b.qq.com/da/id.html?q=u7gmmd.58pkzf.j6llvzp3&p=k86b36.jts4tf.j6llvzp2&t=800110757&a=&c=8435408896&s=1.1.ymh4ji.j6llvzp7&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503286366619	Marionette	DEBUG	Received DOM event "pageshow" for "http://combo.b.qq.com/da/id.html?q=u7gmmd.58pkzf.j6llvzp3&p=k86b36.jts4tf.j6llvzp2&t=800110757&a=&c=8435408896&s=1.1.ymh4ji.j6llvzp7&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503286366622	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286367311	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503286367607	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503286367617	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503286367762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1503286367762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1503286367763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1503286367763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1503286367843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286367861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1503286368118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/system/home"
+1503286368161	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/system/home"
+1503286368163	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286368510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286369921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286370277	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286370595	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286372037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286374571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+1503286377116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286377382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286377913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286378162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286378428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286378661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286381942	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503286382009	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503286382010	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503286382115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1503286382126	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1503286382127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1503286382155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503286382463	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+1503286382709	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61605/"
+1503286382802	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61605/"
+1503286382805	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61605/"
+1503286382965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503286383163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/system/home"
+1503286383550	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/system/home"
+1503286383553	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1503286384217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286384642	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286384991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286387231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286387871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286388247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286388294	Marionette	INFO	New connections will no longer be accepted
+1503286433030	geckodriver	INFO	Listening on 127.0.0.1:45752
+1503286435094	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503286436474	Marionette	INFO	Enabled via --marionette
+[GPU 8552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503286440004	Marionette	INFO	Listening on port 45758
+1503286440043	Marionette	INFO	Listening on port 45758
+1503286440339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503286440418	Marionette	DEBUG	loaded listener.js
+1503286440727	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503286440796	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503286440797	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503286441443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286441993	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286442004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286442005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286442007	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286442009	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286442098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286442104	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286442164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://combo.b.qq.com/da/id.html?q=qbjq4u.6s72si.j6llxmcd&p=xs5h9j.4ki8wo.j6llxmcd&t=800110757&a=&c=9272491008&s=1.1.v3h48i.j6llxmcg&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503286442602	Marionette	DEBUG	Received DOM event "pageshow" for "http://combo.b.qq.com/da/id.html?q=qbjq4u.6s72si.j6llxmcd&p=xs5h9j.4ki8wo.j6llxmcd&t=800110757&a=&c=9272491008&s=1.1.v3h48i.j6llxmcg&src=12&pgv_pvi=&v=0.6.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1503286442604	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286442921	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503286443548	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503286443559	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503286443808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1503286443808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1503286443808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1503286443809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1503286443850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/"
+1503286443917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1503286444208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61604/system/home"
+1503286444282	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/system/home"
+1503286444285	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61604/"
+1503286444771	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286446117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286446487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286446817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286448505	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286450994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+1503286453628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286453891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286454363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286454612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286454871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286455107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286456871	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61604/"
+1503286456916	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61604/"
+1503286456917	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61604/"
+1503286457027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1503286457028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1503286457028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1503286457061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503286457248	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+1503286457501	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.10.223:61605/"
+1503286457608	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.10.223:61605/"
+1503286457610	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.10.223:61605/"
+1503286457811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/"
+1503286458009	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.10.223:61605/system/home"
+1503286458358	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/system/home"
+1503286458360	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.10.223:61605/"
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1503286458932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286459312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286459690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286461945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286462604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286462949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503286462961	Marionette	INFO	New connections will no longer be accepted
+1504172559785	geckodriver	INFO	Listening on 127.0.0.1:3248
+1504172561917	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504172564965	Marionette	INFO	Listening on port 3254
+1504172565347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1504172605054	Marionette	INFO	Ceased listening
+1504172630560	geckodriver	INFO	Listening on 127.0.0.1:3527
+1504172632640	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504172636473	Marionette	INFO	Listening on port 3533
+1504172636787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=20140314, line 44: unreachable code after return statement
+1504172657038	Marionette	INFO	New connections will no longer be accepted
+1504172657814	geckodriver	INFO	Listening on 127.0.0.1:3807
+1504172659826	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504172664157	Marionette	INFO	Listening on port 3813
+1504172665131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.10.223:61604/lodop/lodop_print.js?20160815, line 48: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?v=201407, line 44: unreachable code after return statement
+JavaScript warning: http://192.168.10.223:61605/lodop/lodop_print.js?V=20140225, line 44: unreachable code after return statement
+1504172699728	Marionette	INFO	New connections will no longer be accepted

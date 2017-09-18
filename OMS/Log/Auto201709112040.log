@@ -1,0 +1,29 @@
+2017-09-11 20:40:44,251 - Auto - INFO - 打开网页成功http://192.168.10.223:61604/
+2017-09-11 20:40:44,457 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('id', 'userName') 元素
+2017-09-11 20:40:44,581 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('id', 'userPass') 元素
+2017-09-11 20:40:44,794 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('css selector', '.loginbtn.radius5') 元素
+2017-09-11 20:40:45,941 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0>页面执行js:leftMenu('54','创建入库单','/receiving/receiving/create?quick=54')成功
+2017-09-11 20:40:45,941 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0>切换frame:('id', 'iframe-container-54')成功
+2017-09-11 20:40:46,034 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('id', 'iframe-container-54') 元素
+2017-09-11 20:40:47,140 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('xpath', ".//*[@id='asnForm']/table/tbody/tr[1]/td[2]/div/div[2]") 元素
+2017-09-11 20:40:47,453 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('id', 'transit_warehouse') 元素
+2017-09-11 20:40:47,788 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('id', 'new_target_warehouse_code') 元素
+2017-09-11 20:40:48,106 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('name', 'volume') 元素
+2017-09-11 20:40:48,165 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('name', 'weight') 元素
+2017-09-11 20:40:48,226 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('id', 'sm_code') 元素
+2017-09-11 20:40:48,822 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('xpath', "(//select[@id='receiving_shipping_type'])[2]") 元素
+2017-09-11 20:40:49,220 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('name', 'tax_type') 元素
+2017-09-11 20:40:49,553 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('name', 'customer_type') 元素
+2017-09-11 20:40:49,871 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('xpath', "(//input[@id='refrence_no'])[2]") 元素
+2017-09-11 20:40:49,932 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('xpath', "(//input[@name='shipping_method'])[2]") 元素
+2017-09-11 20:40:49,993 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('xpath', "(//input[@name='tracking_no'])[2]") 元素
+2017-09-11 20:40:50,073 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('xpath', ".//*[@id='asnForm']/table/tbody/tr[12]/td[2]/input") 元素
+2017-09-11 20:40:50,641 - Auto - INFO - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0> 页面中成功找到 ('xpath', ".//*[@id='asnForm']/table/tbody/tr[12]/td[2]/input") 元素
+2017-09-11 20:40:51,481 - Auto - INFO - 点击文本值为6的链接成功
+2017-09-11 20:42:11,756 - Auto - ERROR - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0>页面执行js:document.getElementById('fileField').click()失败
+2017-09-11 20:42:12,758 - Auto - INFO - 上传文件成功
+2017-09-11 20:42:12,763 - Auto - ERROR - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0>页面执行js:document.getElementById('import_manufacture_datas').click()失败
+2017-09-11 20:42:13,763 - Auto - INFO - 上传文件成功
+2017-09-11 20:42:13,767 - Auto - ERROR - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0>页面执行js:document.getElementById('customs_document').click()失败
+2017-09-11 20:42:14,767 - Auto - INFO - 上传文件成功
+2017-09-11 20:42:14,770 - Auto - ERROR - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031C53D0>页面未能找到('id', 'imBoxNo')元素

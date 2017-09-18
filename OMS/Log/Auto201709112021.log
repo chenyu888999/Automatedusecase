@@ -1,0 +1,2 @@
+2017-09-11 20:22:09,285 - Auto - ERROR - 打开网页失败http://192.168.10.223:61604/
+2017-09-11 20:22:09,473 - Auto - ERROR - <OMS.ElementKey.UIPage.Create_Warehousing_page.Create_ware_page object at 0x031842F0>页面未能找到('id', 'userName')元素

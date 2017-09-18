@@ -62,6 +62,7 @@ class create_warehousing(unittest.TestCase):
         create_page.input_delivery_mode(create_page.RandomNumber(8))
         create_page.input_Tracking_number(create_page.RandomNumber(8))
         #选择预计到达时间
+        create_page.time_handle("2017-5-5")
         create_page.click_time()
         # 上传单证
         create_page.script("document.getElementById('fileField').click()")

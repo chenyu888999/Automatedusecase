@@ -362,4 +362,24 @@ class BasePage(object):
         except:
             raise NameError("Please enter the correct targeting elements,'id','name','class','text','xpaht','css'.")
 
+    def click_time(self,input,*element):
+        self.find_element(*element).click()
+        user_date = datetime.datetime.strptime(input, '%Y-%m-%d')
+        locate_time = datetime.datetime.now()
+        delta = user_date.month - locate_time.month
+        if user_date.month > locate_time.month:
+            delta = user_date.month - locate_time.month
+            for i in range(delta):
+                self.driver.find_element(*element).click()
+                if i == delta:
+                    break
+        elif user_date.month < locate_time.month:
+            delta = locate_time.month - user_date.month
+            for i in range(delta):
+                self.driver.find_element(*element).click()
+                if i == delta:
+                    break
+        else:
+            print("点击错误")
+
 

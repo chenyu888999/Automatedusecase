@@ -26,7 +26,6 @@ def test():
     browser.get("http://www.baidu.com")
     browser.find_element_by_id("kw").send_keys("python")
     browser.find_element_by_id("su").click()
-    time.sleep(2)
     a = browser.title
     print(a)
     # browser.get_screenshot_as_file("D:/baidu.png")
@@ -37,7 +36,6 @@ def test2():
     browser.get("http://www.baidu.com")
     browser.find_element_by_id("kw").send_keys("测试基础")
     browser.find_element_by_id("su").click()
-    time.sleep(2)
     a = browser.title
     print(a)
     # browser.get_screenshot_as_file("D:/baidu.png")
@@ -66,11 +64,7 @@ def test3():
     c = driver.get_table_text(".//*[@id='receivedForm']/table", 2, 3)
     time.sleep(2)
     d = driver.get_table_text_row(".//*[@id='receivedForm']/table", 4, "G591")
-
-    print(d)
-
-    driver.click_table_element(".//*[@id='receivedForm']/table", d, 4, "G591d")
-    time.sleep(2)
+    driver.click_table_element(".//*[@id='receivedForm']/table", d, 4, "G591")
     driver.close()
 
 

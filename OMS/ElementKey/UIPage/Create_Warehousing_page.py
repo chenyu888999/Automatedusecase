@@ -11,7 +11,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 from OMS.ElementKey.UIPage import LoginPage
-import time,unittest
+import time,unittest,datetime
 
 
 class Create_ware_page(LoginPage.LoginPage):
@@ -38,6 +38,8 @@ class Create_ware_page(LoginPage.LoginPage):
     RV = (By.ID,"create_feedback_div")
     RV_time = (By.XPATH,".//*[@id='ui-datepicker-div']/table/tbody")
     Estimated_time = (By.XPATH,".//*[@id='asnForm']/table/tbody/tr[12]/td[2]/input")
+    aa =(By.XPATH,".//*[@id='ui-datepicker-div']/div/a[2]/span") #上一月
+    bb = (By.XPATH, ".//*[@id='ui-datepicker-div']/div/a[1]/span") #下一月
     #审核
     js_man = "leftMenu('45','入库单管理','/receiving/receiving/index?quick=45')"
     frame_man = (By.ID, "iframe-container-45")
@@ -120,10 +122,34 @@ class Create_ware_page(LoginPage.LoginPage):
         return RV_T
 
     def click_time(self):
-        self.find_element(*self.Estimated_time).click()
+        #self.find_element(*self.Estimated_time).click()
         row = self.get_table_text_row_time("6",*self.RV_time)
         col = self.get_table_text_col_time("6",*self.RV_time)
         self.click_table_link(row,col,"6",*self.RV_time)
+
+    def time_handle(self,input,*element):
+        self.find_element(*self.Estimated_time).click()
+        user_date = datetime.datetime.strptime(input, '%Y-%m-%d')
+        locate_time = datetime.datetime.now()
+        delta = user_date.month - locate_time.month
+        if user_date.month > locate_time.month:
+            delta = user_date.month - locate_time.month
+            for i in range(delta):
+                self.driver.find_element(*self.aa).click()
+                if i == delta:
+                    break
+        elif user_date.month < locate_time.month:
+            delta = locate_time.month - user_date.month
+            for i in range(delta):
+                self.driver.find_element(*self.bb).click()
+                if i == delta:
+                    break
+        else:
+            print("点击错误")
+
+
+
+
 
     def open_was_manage(self):
         self.script(self.js_man)
